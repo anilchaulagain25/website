@@ -1,0 +1,7 @@
+import './jquery.min.js';
+import './jquery.scrollex.min.js';
+import './jquery.scrolly.min.js';
+import './browser.min.js';
+import './breakpoints.min.js';
+import './util.js';
+import './main.js';
